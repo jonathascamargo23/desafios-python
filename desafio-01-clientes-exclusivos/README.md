@@ -21,11 +21,10 @@ Uma linha com os nomes exclusivos de cada projeto, separados por espaço e em or
 - Estruturas condicionais
 - Manipulação de strings
 
+## Autor
+Jonathas Camargo Oliveira Barboza
+
 ## Como Executar
 
 ```python
 python main.py
-
-## Autor
-
-Jonathas Camargo Oliveira Barboza
