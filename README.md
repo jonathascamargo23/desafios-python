@@ -3,11 +3,10 @@ Repositório com desafios resolvidos em Python durante meus estudos de programa�
 
 ## Desafios Resolvidos
 
-### 01 - Clientes Exclusivos
-- Utilização de conjuntos (sets)
-- Diferença simétrica (`symmetric_difference`)
-- Ordenação com `sorted()`
-- Tratamento de entradas vazias
+| Nº | Desafio | Conceitos |
+|----|----------|-----------|
+| 01 | Clientes Exclusivos | Sets, Diferença Simétrica, Ordenação |
+| 02 | Consulta de Acervo de Livros | Dicionários, Busca por Chave, Estruturas de Controle |
 
 ## Tecnologias
 - Python 3
