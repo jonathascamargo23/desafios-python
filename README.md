@@ -13,6 +13,7 @@ Reposit√≥rio com desafios resolvidos em Python durante meus estudos de programa√
 - Python 3
 - Git
 - GitHub
-
+- VScode
+  
 ## Autor
 Jonathas Camargo Oliveira Barboza
