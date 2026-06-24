@@ -8,6 +8,7 @@ Repositório com desafios resolvidos em Python durante meus estudos de programa�
 | 01 | Clientes Exclusivos | Sets, Diferença Simétrica, Ordenação |
 | 02 | Consulta de Acervo de Livros | Dicionários, Busca por Chave, Estruturas de Controle |
 | 03 | Validação de Cadastro | Funções, Strings, Validação de E-mail |
+| 04 | Cliente VIP | Classes, Objetos, Métodos, Condicionais |
 
 ## Tecnologias
 - Python 3
